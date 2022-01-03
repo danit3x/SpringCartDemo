@@ -14,7 +14,7 @@ import java.time.OffsetDateTime;
 public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private Integer id;
 
     private String email;
 
