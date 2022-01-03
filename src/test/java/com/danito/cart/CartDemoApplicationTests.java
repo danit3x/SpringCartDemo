@@ -1,4 +1,4 @@
-package com.danito.CartDemo;
+package com.danito.cart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

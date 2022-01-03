@@ -1,4 +1,4 @@
-package com.danito.CartDemo;
+package com.danito.cart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
